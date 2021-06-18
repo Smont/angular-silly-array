@@ -1,5 +1,5 @@
 #### angular-silly-array
-<small>Created with CodeSandbox</small>
+Exibir informações de um array com Angular
 
 #### link:
 https://ueovc.csb.app/
